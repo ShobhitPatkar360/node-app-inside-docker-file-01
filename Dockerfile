@@ -1,5 +1,5 @@
 # Specify the base image
-FROM shubh360/node-image:04
+FROM node:latest
 
 # Set the working directory
 WORKDIR /my-node-app 
